@@ -1,6 +1,7 @@
 # CUDA basics
 
 1. [Function execution space specifiers](src/hello.cu)
+2. [Threads, blocks, and grids](src/hello_multithreaded.cu)
 
 ## Helpful resources
 
