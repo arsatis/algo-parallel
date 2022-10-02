@@ -23,7 +23,6 @@ void helloCPU() {
 
 // function with no specifiers is implicitly deemed as __host__
 int main(int argc, char **argv) {
-
     helloGPU<<<1, 1>>>();
     helloCPU();
     // byeGPU<<<1, 10>>>(); // Error: __device__ function call cannot be configured
