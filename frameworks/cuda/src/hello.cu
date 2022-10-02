@@ -1,5 +1,7 @@
 /*
  * Function execution space specifiers: specifies where the function will be executed (i.e., CPU or GPU).
+ * 
+ * Compile using: nvcc hello.cu -o hello
  */
 #include <stdio.h>
 
