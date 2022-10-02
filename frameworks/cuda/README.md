@@ -6,6 +6,7 @@
 4. [Dynamically allocated memory](src/dynamic_memory.cu)
 5. [Unified memory](src/unified_memory.cu)
 6. [Shared memory](src/shared_memory.cu)
+7. [Synchronization](src/synchronization.cu)
 
 ## Helpful resources
 
