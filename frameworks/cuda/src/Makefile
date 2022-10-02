@@ -1,4 +1,4 @@
-CU_APPS=hello hello_multithreaded
+CU_APPS=hello hello_multithreaded dynamic_memory
 CU_UTIL=utils
 
 all: $(CU_APPS)
