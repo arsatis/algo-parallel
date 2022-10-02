@@ -4,6 +4,7 @@
 2. [Threads, blocks, and grids](src/hello_multithreaded.cu)
 3. [Statically allocated memory](src/static_memory.cu)
 4. [Dynamically allocated memory](src/dynamic_memory.cu)
+5. [Unified memory](src/unified_memory.cu)
 
 ## Helpful resources
 
