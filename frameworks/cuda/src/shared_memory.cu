@@ -2,7 +2,6 @@
  * Shared memory is shared within the same thread block, and is accessible to the device faster
  * than global memory. This is done by using the __shared__ specifier.
  */
-#include <vector>
 #include "utils.h"
 
 #define n 12
